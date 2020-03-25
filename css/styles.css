@@ -1,21 +1,16 @@
+background {
+  color: lightblue;
+}
 .important {
   color: red;
 }
 .unimportant {
   color: blue;
 }
-background {
-  color: lightblue;
-}
-	margin: 0;
-	padding: 0;
-	height: auto;
-    background: black;
-}
 .container{
 	margin: inherit;
     width: inherit;
 }
-h4 {
+h3 {
   font-style: italic;
 }
