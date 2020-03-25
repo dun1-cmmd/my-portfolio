@@ -16,3 +16,6 @@ background {
 	margin: inherit;
     width: inherit;
 }
+h4 {
+  font-style: italic;
+}
